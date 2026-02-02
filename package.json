@@ -1,0 +1,24 @@
+{
+  "name": "cjscv2-metadata-server",
+  "version": "2.0.0",
+  "description": "Dynamic metadata server for CryptoJunkieSocialClubV2 NFTs - Vercel Serverless",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "vercel dev",
+    "deploy": "vercel --prod",
+    "deploy:preview": "vercel"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["nft", "metadata", "erc721", "dynamic", "vercel", "serverless"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.9.0"
+  },
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
