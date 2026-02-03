@@ -10,6 +10,10 @@
       "destination": "/api/animation/[tokenId]"
     },
     {
+      "source": "/api/proof/:address",
+      "destination": "/api/proof/[address]"
+    },
+    {
       "source": "/",
       "destination": "/api"
     }

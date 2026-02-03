@@ -1,0 +1,15 @@
+{
+  "og": {
+    "root": "0x845e28d462b2b678aae84a4a1a82b7c1bca80c12810483f40dc88a803664f44a",
+    "proofs": {
+      "0xa7ce207e577b7b1ca3ab18f82beeaa63e0335d6f": []
+    }
+  },
+  "addicts": {
+    "root": "0xc5450c1a1df4640e400f11691eba4468fe36c0d14be3ba3a6cad2a6d0629aec3",
+    "proofs": {
+      "0x3b3897e4c06cabfbd1d937ce1d2e72403020a6b6": []
+    }
+  },
+  "lastUpdated": "2026-02-03T11:21:00.000Z"
+}
